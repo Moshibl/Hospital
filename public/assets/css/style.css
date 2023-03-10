@@ -52530,6 +52530,7 @@ a.text-dark:hover, a.text-dark:focus {
   display:flex;
   flex-direction: column;
   justify-content: space-between;
+  flex-wrap: nowrap;
 }
 
 

@@ -123,8 +123,8 @@
 												<th class="border-bottom-0">Department</th>
 												<th class="border-bottom-0">Age</th>
 												<th class="border-bottom-0">Start date</th>
-												<th class="border-bottom-0">Salary</th>
 												<th  class="border-bottom-0">Actions</th>
+												<th class="border-bottom-0">Salary</th>
 											</tr>
 										</thead>
 										<tbody>
@@ -135,12 +135,13 @@
 												<td>Neurology</td>
 												<td>61</td>
 												<td>2011/04/25</td>
-												<td>$320,800</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 														<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$320,800</td>
+												
 											</tr>
 											<tr>
 												<td>2</td>
@@ -149,12 +150,12 @@
 												<td>Neurology</td>
 												<td>63</td>
 												<td>2011/07/25</td>
-												<td>$170,750</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 														<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$170,750</td>
 											</tr>
 											<tr>
 												<td>3</td>
@@ -163,12 +164,12 @@
 												<td>Neurology</td>
 												<td>41</td>
 												<td>2012/10/13</td>
-												<td>$132,000</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$132,000</td>
 											</tr>
 											<tr>
 												<td>4</td>
@@ -177,12 +178,12 @@
 												<td>Neurology</td>
 												<td>35</td>
 												<td>2012/09/26</td>
-												<td>$217,500</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$217,500</td>
 											</tr>
 											<tr>
 												<td>5</td>
@@ -191,12 +192,12 @@
 												<td>Neurology</td>
 												<td>30</td>
 												<td>2011/09/03</td>
-												<td>$345,000</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$345,000</td>
 											</tr>
 											<tr>
 												<td>6</td>
@@ -205,12 +206,12 @@
 												<td>Neurology</td>
 												<td>28</td>
 												<td>2010/11/14</td>
-												<td>$357,650</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$357,650</td>
 											</tr>
 											<tr>
 												<td>7</td>
@@ -219,12 +220,12 @@
 												<td>Neurology</td>
 												<td>28</td>
 												<td>2011/06/07</td>
-												<td>$206,850</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$206,850</td>
 											</tr>
 											<tr>
 												<td>8</td>
@@ -233,12 +234,12 @@
 												<td>Cardiology</td>
 												<td>40</td>
 												<td>2009/06/25</td>
-												<td>$675,000</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$675,000</td>
 											</tr>
 											<tr>
 												<td>9</td>
@@ -247,12 +248,12 @@
 												<td>Cardiology</td>
 												<td>21</td>
 												<td>2011/12/12</td>
-												<td>$106,450</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$106,450</td>
 											</tr>
 											<tr>
 												<td>10</td>
@@ -261,12 +262,12 @@
 												<td>Cardiology</td>
 												<td>23</td>
 												<td>2010/09/20</td>
-												<td>$85,600</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$85,600</td>
 											</tr>
 											<tr>
 												<td>11</td>
@@ -275,12 +276,12 @@
 												<td>Cardiology</td>
 												<td>47</td>
 												<td>2009/10/09</td>
-												<td>$1,200,000</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$1,200,000</td>
 											</tr>
 											<tr>
 												<td>12</td>
@@ -289,12 +290,12 @@
 												<td>Cardiology</td>
 												<td>42</td>
 												<td>2010/12/22</td>
-												<td>$92,575</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$92,575</td>
 											</tr>
 											<tr>
 												<td>13</td>
@@ -303,12 +304,12 @@
 												<td>Cardiology</td>
 												<td>48</td>
 												<td>2010/03/11</td>
-												<td>$850,000</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
 													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$850,000</td>
 											</tr>
 											<tr>
 												<td>14</td>
@@ -317,12 +318,12 @@
 												<td>Cardiology</td>
 												<td>37</td>
 												<td>2011/06/02</td>
-												<td>$95,400</td>
 												<td>
 													<div class="col-sm-6 col-md-3 mg-t-10">
-													<button class="btn btn-primary btn-blockEdit-btn">Edit</button>
+													<button class="btn btn-primary btn-block Edit-btn">Edit</button>
 													</div>
 												</td>
+												<td>$95,400</td>
 											</tr>
 										</tbody>
 									</table>

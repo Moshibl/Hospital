@@ -10,7 +10,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="my--container">
+				<!-- <div class="my--container"> -->
 				<div class="col-xl-12">
 					<div class="card mg-b-20">
 						<div class="card-header pb-0">
@@ -184,10 +184,9 @@
 						<div class="col-sm-6 col-md-3 mg-t-10 mg-sm-t-0">
 							<button class="btn btn-info btn-block Emp-btn"></button>
 						</div>
-					</div>
-					
+					</div>	
 				</div>
-</div>
+				<!-- </div> -->
 				<!-- breadcrumb -->
 @endsection
 @section('content')
